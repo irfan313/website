@@ -1,6 +1,4 @@
 ## WEBSITE
 This is an awesome Website.
 
-Updating README from update-readme branch.
-
-Updating Locally.
+Updates made on master on GiTHub before rebase.
